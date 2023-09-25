@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sehaj Dhawan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" align="right">
+<img src="C:\Users\SEHAJ DHAWAN\OneDrive\Desktop\profile-pic (2).png" align="right">
 
 - 🌱 I’m currently learning **Backend using NodeJs**
 
